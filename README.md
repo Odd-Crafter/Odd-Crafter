@@ -59,9 +59,14 @@ i understand systems better when i take them apart.
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Odd-Crafter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=57A143&icon_color=57A143)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odd-Crafter&layout=compact&theme=tokyonight&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Odd-Crafter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=57A143&icon_color=57A143&text_color=a9b1d6&bg_color=1a1b27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Odd-Crafter&layout=compact&theme=tokyonight&hide_border=true&title_color=57A143&text_color=a9b1d6&bg_color=1a1b27)
+
+![Streak](https://streak-stats.demolab.com?user=Odd-Crafter&theme=tokyonight&hide_border=true&ring=57A143&fire=EF9F27&currStreakLabel=57A143)
+
 
 
 
