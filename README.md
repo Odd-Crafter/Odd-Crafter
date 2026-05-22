@@ -10,6 +10,7 @@
 ![wave](./wave.svg)
 
 
+
 ### about me
 
 i build and break things in the terminal. void linux is home.  
@@ -38,7 +39,10 @@ i understand systems better when i take them apart.
 ![Systems](https://img.shields.io/badge/systems_%26_low--level-2a1313?style=flat&logo=gnubash&logoColor=f09595)
 
 
+
 ![wave](./wave.svg)
+
+
 
 
 ### currently
@@ -50,13 +54,21 @@ i understand systems better when i take them apart.
 - 🙏 **grateful** — every line of code is a blessing
 - 🎯 **goal** — ship something real
 
+
+
 ![wave](./wave.svg)
+
+
 
 ### pac-man eats my commits
 
 ![Pac-Man](https://raw.githubusercontent.com/Odd-Crafter/Odd-Crafter/output/pacman-contribution.svg)
 
+
+
 ![wave](./wave.svg)
+
+
 
 ### github stats
 
@@ -65,13 +77,12 @@ i understand systems better when i take them apart.
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
 
-![wave](./wave.svg)
+
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
 
 
-![wave](./wave.svg)
 
 
 [![Streak](https://streak-stats.demolab.com?user=Odd-Crafter&theme=tokyonight&hide_border=true&ring=57A143&fire=EF9F27&currStreakLabel=57A143)](https://github.com/Odd-Crafter)
