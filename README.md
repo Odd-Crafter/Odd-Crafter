@@ -59,13 +59,15 @@ i understand systems better when i take them apart.
 
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Odd-Crafter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=57A143&icon_color=57A143)](https://github.com/Odd-Crafter)
 
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Odd-Crafter&layout=compact&theme=tokyonight&hide_border=true&title_color=57A143)](https://github.com/Odd-Crafter)
-
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Odd-Crafter&theme=tokyonight)](https://github.com/Odd-Crafter)
 
 [![Streak](https://streak-stats.demolab.com?user=Odd-Crafter&theme=tokyonight&hide_border=true&ring=57A143&fire=EF9F27&currStreakLabel=57A143)](https://github.com/Odd-Crafter)
+
+
 
 
 
