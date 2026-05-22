@@ -1,6 +1,6 @@
 
 
-# odd-crafter
+![header](./header-typing.svg)
 
 `linux tinkerer` · `open world survivor` · `odd things, crafted carefully`
 
