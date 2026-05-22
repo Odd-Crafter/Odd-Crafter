@@ -68,14 +68,7 @@ i understand systems better when i take them apart.
 
 ---
 
-### vibing to
 
-
-
-
-![cozy lofi rain]([https://media.giphy.com/media/l3vR1RI9vSI3bIlnW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvaGJlN3QxeGVrNmxoYmJmNmRrNW9kb21hdDd2MWo5ZXUzNm93eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xxHqpovWonBMkSy1cf/giphy.gif))
-
-*rain on the window. terminal open. god is good.*
 
 
 
