@@ -7,7 +7,8 @@
 
 
 
----
+![wave](./wave.svg)
+
 
 ### about me
 
@@ -20,7 +21,8 @@ i understand systems better when i take them apart.
 
 > "i can do all things through Christ who strengthens me." — Phil 4:13
 
----
+![wave](./wave.svg)
+
 
 ### stack
 
@@ -35,7 +37,9 @@ i understand systems better when i take them apart.
 ![CSS](https://img.shields.io/badge/css_(learning)-2a1f2a?style=flat&logo=css3&logoColor=ce9178)
 ![Systems](https://img.shields.io/badge/systems_%26_low--level-2a1313?style=flat&logo=gnubash&logoColor=f09595)
 
----
+
+![wave](./wave.svg)
+
 
 ### currently
 
@@ -46,13 +50,13 @@ i understand systems better when i take them apart.
 - 🙏 **grateful** — every line of code is a blessing
 - 🎯 **goal** — ship something real
 
----
+![wave](./wave.svg)
 
 ### pac-man eats my commits
 
 ![Pac-Man](https://raw.githubusercontent.com/Odd-Crafter/Odd-Crafter/output/pacman-contribution.svg)
 
----
+![wave](./wave.svg)
 
 ### github stats
 
