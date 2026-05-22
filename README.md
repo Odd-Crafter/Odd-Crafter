@@ -70,7 +70,7 @@ i understand systems better when i take them apart.
 
 
 
-
+![wave](./wave.svg)
 
 
 ---
