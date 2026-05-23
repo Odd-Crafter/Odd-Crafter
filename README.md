@@ -1,6 +1,6 @@
 
 
-![header](./header-typing V3.2.svg)
+![header](./header-glitch.svg)
 
 `linux tinkerer` · `open world survivor` · `odd things, crafted carefully`
 
