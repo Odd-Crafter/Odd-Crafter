@@ -60,7 +60,7 @@ i understand systems better when i take them apart.
 
 
 
-### pac-man eats my commits
+### eats my commits
 
 ![Pac-Man](https://raw.githubusercontent.com/Odd-Crafter/Odd-Crafter/output/pacman-contribution.svg)
 
